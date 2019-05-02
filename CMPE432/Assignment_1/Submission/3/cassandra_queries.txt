@@ -1,0 +1,1 @@
+All Cassandra queries are shown in Appendix A.2

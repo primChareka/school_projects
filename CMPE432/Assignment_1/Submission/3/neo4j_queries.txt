@@ -1,0 +1,6 @@
+All Neo4j queries are shown in Appendix A.3. To run each Neo4j query, the following py2neo commands were run to connect and then execute cypher:
+graph:
+
+`uri = "http://neo4j:Neo4jPassword@40.121.20.57:7474/db/data"`
+`graph = Graph(uri)`
+`graph.cypher.execute(<query>)`

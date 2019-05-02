@@ -1,0 +1,10 @@
+To find the time for each query, the pymongo driver was used to run the dataset1 queries while timing performance.
+The python code for each query was of the following structure:
+
+# connect to replica set
+client=MongoClient("mongodb://40.114.79.23:27017,40.114.70.147:27017/?replicaSet=replicaset')
+for i in range(0,10):
+    loopStartTime=time.time()
+    queryRes = client.db.ratings.aggregate([<parameters_as_shown_in_dataset1>])
+    queryTimeTotal=query3TimeTotal+(time.time()-loopStartTime)
+print("Query Average Time: {}".format(queryTimeTotal/10))

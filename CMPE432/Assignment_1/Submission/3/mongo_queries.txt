@@ -1,0 +1,4 @@
+All mongo queries performed in dataset1 were preceded by running `mongod` in one shell, and then the following commands in another shell:
+`mongo`
+`db=connect("dataset1")`
+`db.ratings.aggregate([<any_params_from_appendix_A.1>])

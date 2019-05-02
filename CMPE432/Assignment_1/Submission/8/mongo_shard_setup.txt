@@ -1,0 +1,10 @@
+To create the MongoDB replica set, Azure VMs were used. Once MongoDB was installed, the following commands were run in different shells
+
+`mongod --shardsvr  -–replSet “replicaset” --bind_ip 40.114.79.23, 40.114.70.147`
+
+`mongo`
+`rs.initiate(_id: “replicaset”, members: [{ _id: 0, host: “40.114.79.23:27017”}, { _id: 1, host: “40.114.70.147”}]})`
+
+`mongos --configdb shardreplica/40.114.79.23:27017,40.114.70.147:27017 --bind_ip 40.114.79.23:27017,40.114.70.147:27017`
+`sh.addShard( "<shradreplica/40.114.79.23:27017")`
+`sh.enableSharding(“dataset2shard”)`
