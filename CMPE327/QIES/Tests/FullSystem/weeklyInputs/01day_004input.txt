@@ -1,0 +1,5 @@
+login
+agent
+createservice
+12345
+logout

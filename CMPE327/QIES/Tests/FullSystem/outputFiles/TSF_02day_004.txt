@@ -1,0 +1,2 @@
+DEL 23456 0 00000 camping 0
+EOS

@@ -1,0 +1,51 @@
+********************** 2018_10_31 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+DEL_001 test case failed
+   Expected out was
+	
+   Test Output was
+	EOS
+DEL_002 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+	DEL 12345 0 00000 kayaking 0
+EOS
+DEL_003 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+	DEL 12345 0 00000 kayaking 0
+EOS
+DEL_004 test case failed
+   Expected out was
+	
+   Test Output was
+	EOS
+DEL_005 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+	DEL 12345 0 00000 kayaking 0
+EOS
+DEL_006 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+	DEL 12345 0 00000 kayaking 0
+EOS
+DEL_007 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+	DEL 12345 0 00000 kayaking 0
+EOS
+DEL_008 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+	DEL 12345 0 00000 kayaking 0
+EOS
+============== PASSED TEST CASES ==============
+ALL TESTS FAILED

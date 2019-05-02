@@ -1,0 +1,43 @@
+********************** 2018_10_31 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+CRE_001 test case failed
+   Expected out was
+	CRE 98765 0 00000 testservice 20180930
+   Test Output was
+	EOS
+CRE_008 test case failed
+   Expected out was
+	CRE 98765 0 00000 testservice 20180930
+   Test Output was
+	EOS
+CRE_014 test case failed
+   Expected out was
+	CRE 98765 0 00000 testservice 20180930
+   Test Output was
+	EOS
+CRE_018 test case failed
+   Expected out was
+	CRE 98765 0 00000 testservice 20180930
+   Test Output was
+	EOS
+CRE_019 test case failed
+   Expected out was
+	CRE 98765 0 00000 testservice 20180930
+   Test Output was
+	EOS
+============== PASSED TEST CASES ==============
+CRE_002 test case passed
+CRE_003 test case passed
+CRE_004 test case passed
+CRE_005 test case passed
+CRE_006 test case passed
+CRE_007 test case passed
+CRE_009 test case passed
+CRE_010 test case passed
+CRE_011 test case passed
+CRE_012 test case passed
+CRE_013 test case passed
+CRE_015 test case passed
+CRE_016 test case passed
+CRE_017 test case passed

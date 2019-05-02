@@ -1,0 +1,13 @@
+login
+planner
+createservice
+98765
+50
+testService
+20181230
+createService
+23456
+50
+camping
+20181012
+logout

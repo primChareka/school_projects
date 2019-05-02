@@ -1,0 +1,15 @@
+********************** 2018_10_31 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+NO FAILED TESTS
+============== PASSED TEST CASES ==============
+LGO_001 test case passed
+LGO_002 test case passed
+LGO_003 test case passed
+LGO_004 test case passed
+LGO_005 test case passed
+LGO_006 test case passed
+LGO_007 test case passed
+LGO_008 test case passed
+LGO_009 test case passed
+LGO_010 test case passed

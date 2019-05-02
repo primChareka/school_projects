@@ -1,0 +1,2 @@
+CRE 98765 50 00000 testservice 20181230
+EOS

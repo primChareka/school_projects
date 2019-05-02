@@ -1,0 +1,9 @@
+login
+planner
+deleteservice
+12345
+kayaking
+cancelticket
+12345
+4
+logout

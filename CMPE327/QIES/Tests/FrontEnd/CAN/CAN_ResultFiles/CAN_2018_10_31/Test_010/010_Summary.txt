@@ -1,0 +1,30 @@
+********************** 2018_10_31 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+CAN_010 test case failed
+   Expected out was
+	CAN 12345 9 00000 **** ****
+CAN 23456 9 00000 **** ****
+EOS
+   Test Output was
+	CAN 12345 9 **** **** 0
+CAN 23456 9 **** **** 0
+EOS
+CAN_011 test case failed
+   Expected out was
+	CAN 12345 11 00000 **** ****
+EOS
+   Test Output was
+	CAN 12345 11 **** **** 0
+EOS
+============== PASSED TEST CASES ==============
+CAN_001 test case passed
+CAN_002 test case passed
+CAN_003 test case passed
+CAN_004 test case passed
+CAN_005 test case passed
+CAN_006 test case passed
+CAN_007 test case passed
+CAN_008 test case passed
+CAN_009 test case passed
+CAN_012 test case passed

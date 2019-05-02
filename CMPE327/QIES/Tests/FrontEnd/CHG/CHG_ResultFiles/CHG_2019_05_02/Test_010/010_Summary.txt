@@ -1,0 +1,18 @@
+********************** 2019_05_02 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+NO FAILED TESTS
+============== PASSED TEST CASES ==============
+CHG_001 test case passed
+CHG_002 test case passed
+CHG_003 test case passed
+CHG_004 test case passed
+CHG_005 test case passed
+CHG_006 test case passed
+CHG_007 test case passed
+CHG_008 test case passed
+CHG_009 test case passed
+CHG_010 test case passed
+CHG_011 test case passed
+CHG_012 test case passed
+CHG_013 test case passed

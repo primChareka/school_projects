@@ -1,0 +1,25 @@
+********************** 2018_10_31 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+NO FAILED TESTS
+============== PASSED TEST CASES ==============
+LGI_001 test case passed
+LGI_002 test case passed
+LGI_003 test case passed
+LGI_004 test case passed
+LGI_005 test case passed
+LGI_006 test case passed
+LGI_007 test case passed
+LGI_008 test case passed
+LGI_009 test case passed
+LGI_010 test case passed
+LGI_011 test case passed
+LGI_012 test case passed
+LGI_013 test case passed
+LGI_014 test case passed
+LGI_015 test case passed
+LGI_016 test case passed
+LGI_017 test case passed
+LGI_018 test case passed
+LGI_019 test case passed
+LGI_020 test case passed

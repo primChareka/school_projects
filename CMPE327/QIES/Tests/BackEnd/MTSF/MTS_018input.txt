@@ -1,0 +1,2 @@
+DEL 23456 0 **** bustour 0
+EOS

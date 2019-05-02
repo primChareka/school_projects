@@ -1,0 +1,89 @@
+********************** 2019_05_02 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+LGI_001 test case failed
+   Expected out was
+	CAN 12345 1 00000 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_004 test case failed
+   Expected out was
+	CAN 12345 1 00000 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_005 test case failed
+   Expected out was
+	CAN 12345 1 00000 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_006 test case failed
+   Expected out was
+	SEL 12345 1 00000 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_007 test case failed
+   Expected out was
+	CAN 12345 1 00000 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_008 test case failed
+   Expected out was
+	CHG 12345 1 23456 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_009 test case failed
+   Expected out was
+	CAN 12345 1 00000 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_012 test case failed
+   Expected out was
+	SEL 12345 1 00000 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_013 test case failed
+   Expected out was
+	CAN 12345 1 00000 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_014 test case failed
+   Expected out was
+	CHG 12345 1 23456 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_016 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 0
+EOS
+   Test Output was
+	EOS
+LGI_018 test case failed
+   Expected out was
+	CHG 12345 1 23456 **** 0
+EOS
+   Test Output was
+	EOS
+LGI_020 test case failed
+   Expected out was
+	CHG 12345 1 23456 **** 0
+EOS
+   Test Output was
+	EOS
+============== PASSED TEST CASES ==============
+LGI_002 test case passed
+LGI_003 test case passed
+LGI_010 test case passed
+LGI_011 test case passed
+LGI_015 test case passed
+LGI_017 test case passed
+LGI_019 test case passed

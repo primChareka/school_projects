@@ -1,0 +1,75 @@
+********************** 2018_10_31 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+DEL_001 test case failed
+   Expected out was
+	
+   Test Output was
+	EOS
+DEL_002 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+<<<<<<< HEAD
+	DEL 12345 0 00000 kayaking 0
+EOS
+=======
+	EOS
+>>>>>>> 2b21c8212c52c2da22c70e2f8414c20f5fe81078
+DEL_003 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+<<<<<<< HEAD
+	DEL 12345 0 00000 kayaking 0
+EOS
+=======
+	EOS
+>>>>>>> 2b21c8212c52c2da22c70e2f8414c20f5fe81078
+DEL_004 test case failed
+   Expected out was
+	
+   Test Output was
+	EOS
+DEL_005 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+<<<<<<< HEAD
+	DEL 12345 0 00000 kayaking 0
+EOS
+=======
+	EOS
+>>>>>>> 2b21c8212c52c2da22c70e2f8414c20f5fe81078
+DEL_006 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+<<<<<<< HEAD
+	DEL 12345 0 00000 kayaking 0
+EOS
+=======
+	EOS
+>>>>>>> 2b21c8212c52c2da22c70e2f8414c20f5fe81078
+DEL_007 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+<<<<<<< HEAD
+	DEL 12345 0 00000 kayaking 0
+EOS
+=======
+	EOS
+>>>>>>> 2b21c8212c52c2da22c70e2f8414c20f5fe81078
+DEL_008 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 20180930
+   Test Output was
+<<<<<<< HEAD
+	DEL 12345 0 00000 kayaking 0
+EOS
+=======
+	EOS
+>>>>>>> 2b21c8212c52c2da22c70e2f8414c20f5fe81078
+============== PASSED TEST CASES ==============
+ALL TESTS FAILED

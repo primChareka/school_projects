@@ -1,0 +1,48 @@
+********************** 2018_10_31 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+CAN_001 test case failed
+   Expected out was
+	CAN 12345 1 00000 kayaking 201807272217
+   Test Output was
+	EOS
+CAN_002 test case failed
+   Expected out was
+	CAN 12345 1 00000 kayaking 201807272217
+   Test Output was
+	EOS
+CAN_003 test case failed
+   Expected out was
+	CAN 12345 1 00000 kayaking 201807272217
+   Test Output was
+	EOS
+CAN_006 test case failed
+   Expected out was
+	CAN 12345 1 00000 kayaking 201807272217
+EOS
+   Test Output was
+	EOS
+CAN_010 test case failed
+   Expected out was
+	CAN 12345 9 00000 kayaking 201807272217
+CAN 23456 9 00000 kayaking 201807272220
+   Test Output was
+	
+CAN_011 test case failed
+   Expected out was
+	CAN 12345 11 00000 kayaking 201807272217
+   Test Output was
+	EOS
+CAN_012 test case failed
+   Expected out was
+	CAN 12345 9 00000 kayaking 201807272217
+CAN 23456 9 00000 kayaking 201807272219
+CAN 12345 5 00000 kayaking 201807272221
+   Test Output was
+	EOS
+============== PASSED TEST CASES ==============
+CAN_004 test case passed
+CAN_005 test case passed
+CAN_007 test case passed
+CAN_008 test case passed
+CAN_009 test case passed

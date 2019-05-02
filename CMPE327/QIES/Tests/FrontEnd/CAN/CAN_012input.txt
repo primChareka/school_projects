@@ -1,0 +1,12 @@
+login
+planner
+cancelticket
+12345
+9
+cancelticket
+23456
+9
+cancelticket
+12345
+5
+logout

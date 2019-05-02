@@ -1,0 +1,6 @@
+login
+planner
+sellTicket
+12345
+10
+logout

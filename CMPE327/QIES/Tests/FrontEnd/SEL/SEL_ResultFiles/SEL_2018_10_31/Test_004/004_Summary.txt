@@ -1,0 +1,25 @@
+********************** 2018_10_31 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+SEL_002 test case failed
+   Expected out was
+	SEL 12345 1 00000 kayaking 20180930
+EOS
+   Test Output was
+	EOS
+SEL_005 test case failed
+   Expected out was
+	SEL 12345 1 00000 kayaking 20180930
+EOS
+   Test Output was
+	EOS
+SEL_006 test case failed
+   Expected out was
+	SEL 12345 1 00000 kayaking 20180930
+EOS
+   Test Output was
+	EOS
+============== PASSED TEST CASES ==============
+SEL_001 test case passed
+SEL_003 test case passed
+SEL_004 test case passed

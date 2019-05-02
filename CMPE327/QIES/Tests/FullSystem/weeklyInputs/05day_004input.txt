@@ -1,0 +1,6 @@
+login
+planner
+deleteService
+98765
+testService
+logout

@@ -1,0 +1,6 @@
+login
+planner
+deleteService
+23456
+camping
+logout 

@@ -1,0 +1,42 @@
+********************** 2019_05_02 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+DEL_002 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 0
+EOS
+   Test Output was
+	EOS
+DEL_003 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 0
+EOS
+   Test Output was
+	EOS
+DEL_005 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 0
+EOS
+   Test Output was
+	EOS
+DEL_006 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 0
+EOS
+   Test Output was
+	EOS
+DEL_007 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 0
+EOS
+   Test Output was
+	EOS
+DEL_008 test case failed
+   Expected out was
+	DEL 12345 0 00000 kayaking 0
+EOS
+   Test Output was
+	EOS
+============== PASSED TEST CASES ==============
+DEL_001 test case passed
+DEL_004 test case passed

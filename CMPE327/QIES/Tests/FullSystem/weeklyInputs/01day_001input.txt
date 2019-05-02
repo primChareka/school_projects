@@ -1,0 +1,8 @@
+login
+planner
+createService
+12345
+50
+kayaking
+20181012
+logout

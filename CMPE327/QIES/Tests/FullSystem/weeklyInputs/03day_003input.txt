@@ -1,0 +1,6 @@
+login
+planner
+sellTicket
+98765
+10
+logout

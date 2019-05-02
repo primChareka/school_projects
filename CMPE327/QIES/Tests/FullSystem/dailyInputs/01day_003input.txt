@@ -1,0 +1,8 @@
+login
+planner
+createservice
+98765
+50
+testService
+20181230
+logout

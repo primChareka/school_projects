@@ -1,0 +1,8 @@
+login
+planner
+createservice
+22255
+100
+Skiing
+20181019
+logout

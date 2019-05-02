@@ -1,0 +1,24 @@
+********************** 2018_10_31 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+LGO_001 test case failed
+   Expected out was
+	CHG 12345 1 23456 kayaking 201807272217
+   Test Output was
+	CHG 12345 1 23456 **** 0
+EOS
+LGO_002 test case failed
+   Expected out was
+	CHG 12345 1 23456 kayaking 201807272217
+   Test Output was
+	CHG 12345 1 23456 **** 0
+EOS
+============== PASSED TEST CASES ==============
+LGO_003 test case passed
+LGO_004 test case passed
+LGO_005 test case passed
+LGO_006 test case passed
+LGO_007 test case passed
+LGO_008 test case passed
+LGO_009 test case passed
+LGO_010 test case passed

@@ -1,0 +1,47 @@
+********************** 2019_05_02 TEST CASES **********************
+
+============== FAILED TEST CASES ==============
+CHG_001 test case failed
+   Expected out was
+	CHG 12345 1 23456 **** 0
+EOS
+   Test Output was
+	EOS
+CHG_003 test case failed
+   Expected out was
+	CHG 12345 1 23456 **** 0
+EOS
+   Test Output was
+	EOS
+CHG_007 test case failed
+   Expected out was
+	CHG 12345 1 23456 **** 0
+EOS
+   Test Output was
+	EOS
+CHG_008 test case failed
+   Expected out was
+	CHG 12345 0 23456 **** 0
+EOS
+   Test Output was
+	EOS
+CHG_010 test case failed
+   Expected out was
+	CHG 12345 4 23456 **** 0
+EOS
+   Test Output was
+	EOS
+CHG_013 test case failed
+   Expected out was
+	CHG 12345 1 23456 **** 0
+EOS
+   Test Output was
+	EOS
+============== PASSED TEST CASES ==============
+CHG_002 test case passed
+CHG_004 test case passed
+CHG_005 test case passed
+CHG_006 test case passed
+CHG_009 test case passed
+CHG_011 test case passed
+CHG_012 test case passed
